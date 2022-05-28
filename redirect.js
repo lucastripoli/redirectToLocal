@@ -1,0 +1,1 @@
+var redirectUrl = "http://localhost"
