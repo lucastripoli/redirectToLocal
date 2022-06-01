@@ -1,1 +1,1 @@
-var redirectUrl = 'https://three-memes-speak-201-92-47-22.loca.lt'
+var redirectUrl = 'https://thin-tables-train-189-69-46-46.loca.lt'
