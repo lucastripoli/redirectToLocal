@@ -1,1 +1,1 @@
-var redirectUrl = 'https://odd-days-peel-189-69-46-46.loca.lt'
+var redirectUrl = 'https://quick-pugs-chew-189-69-36-77.loca.lt'
